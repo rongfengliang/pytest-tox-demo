@@ -1,0 +1,6 @@
+.vscode
+.tox
+__pycache__
+*.pyc
+venv
+firsttest.egg-info
